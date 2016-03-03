@@ -1,10 +1,10 @@
 # Site settings
 title:       Marcos Luna
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+email:       marcos.luna@consultant.com
+author:      Marcos Luna
+description: "Plain and simple IT Consulting Topics"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://marcosluna.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
